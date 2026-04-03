@@ -1,23 +1,19 @@
-# 🔐 Modern Animated Login UI
+🔐 Modern Animated Login UI
 
-A modern and responsive **Animated Login UI** built using **HTML, CSS, and JavaScript**.
-This project features a clean layout, smooth animations, and a professional design suitable for **frontend developer portfolios**.
+A modern and responsive Animated Login UI built using HTML, CSS, and JavaScript.
+This project features a clean layout, smooth animations, and a professional design suitable for frontend developer portfolios.
 
----
+🚀 Features
+Modern UI Design
+Responsive Layout
+Smooth Animations
+Login Page
+Signup Page
+Forgot Password Page
+Animated Illustration
+Clean Code Structure
 
-# 🚀 Features
 
-* Modern UI Design
-* Responsive Layout
-* Smooth Animations
-* Login Page
-* Signup Page
-* Forgot Password Page
-* Animated Illustration
-* Clean Code Structure
-* Beginner Friendly
-
----
 
 # 🛠️ Technologies Used
 
@@ -97,9 +93,6 @@ Feel free to connect for collaboration or opportunities.
 ├── js
   └── script.js
 
-
-
-This project was created to practice frontend development skills and build a professional UI design for portfolio and resume.
 
 # 📬 Contact
 Mobile Number:8544965031
