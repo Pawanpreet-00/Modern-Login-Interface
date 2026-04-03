@@ -1,4 +1,4 @@
-🔐 Modern Animated Login UI
+**🔐 Modern Animated Login UI**
 
 A modern and responsive Animated Login UI built using HTML, CSS, and JavaScript.
 This project features a clean layout, smooth animations, and a professional design suitable for frontend developer portfolios.
